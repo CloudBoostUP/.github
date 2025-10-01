@@ -58,7 +58,7 @@ Unsure where to begin? Look for issues tagged with:
 
 We actively welcome your pull requests:
 
-1. Fork the repo and create your branch from `main`
+1. Fork the repo and create your branch from `master`
 2. If you've added code that should be tested, add tests
 3. If you've changed APIs, update the documentation
 4. Ensure the test suite passes
@@ -203,10 +203,9 @@ We follow the [Conventional Commits](https://www.conventionalcommits.org/) speci
 
 ### Getting Help
 
-- 💬 **GitHub Discussions** - Ask questions and share ideas
-- 📧 **Email** - info@cloudboostup.com for private inquiries
-- 🐦 **Twitter** - [@CloudBoostUP](https://twitter.com/cloudboostup) for updates
-- 💼 **LinkedIn** - [CloudBoostUP](https://linkedin.com/company/cloudboostup) for professional connections
+- 💬 **GitHub Discussions** - Ask questions and share ideas in repository discussions
+- 💼 **LinkedIn** - [CloudBoostUP](https://www.linkedin.com/company/cloudboostup) for professional connections
+- 🌐 **Website** - [cloudboostup.com](https://cloudboostup.com) for professional support inquiries
 
 ### Recognition
 
@@ -218,7 +217,7 @@ Contributors will be recognized in:
 
 ## 📜 License
 
-By contributing, you agree that your contributions will be licensed under the same license as the project (typically MIT License).
+By contributing, you agree that your contributions will be licensed under the same license as the project. Please check individual repository LICENSE files for specific licensing information.
 
 ---
 
