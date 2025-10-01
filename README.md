@@ -2,17 +2,19 @@
 
 This repository contains the organization profile and community health files for CloudBoostUP.
 
-## ðŸ“ Repository Structure
+## 📁 Repository Structure
 
-- profile/README.md - Organization profile that appears on https://github.com/CloudBoostUP
-- CONTRIBUTING.md - Contributing guidelines that apply to all repositories in the organization
+- `profile/README.md` - Organization profile that appears on https://github.com/CloudBoostUP
+- `CONTRIBUTING.md` - Contributing guidelines that apply to all repositories in the organization
+- `SECURITY.md` - Security policy and vulnerability reporting
+- `SUPPORT.md` - Support information
 
-## ðŸŒ View Our Profile
+## 🌐 View Our Profile
 
 Visit our organization page: [https://github.com/CloudBoostUP](https://github.com/CloudBoostUP)
 
-## ðŸ“š Learn More
+## 📚 Learn More
 
-- Website: [cloudboostup.com](https://cloudboostup.com)
-- Documentation: Available in individual repositories
-- Contact: info@cloudboostup.com
+- **Website:** [cloudboostup.com](https://cloudboostup.com)
+- **LinkedIn:** [CloudBoostUP](https://www.linkedin.com/company/cloudboostup)
+- **Documentation:** Available in individual repositories

@@ -1,6 +1,6 @@
 ﻿# Security Policy
 
-## ðŸ”’ Reporting a Vulnerability
+## 🔒 Reporting a Vulnerability
 
 CloudBoostUP takes security seriously. If you discover a security vulnerability in any of our projects, please report it responsibly.
 
@@ -22,7 +22,7 @@ Include the following information:
 - **Status Updates:** Every 7 days until resolution
 - **Disclosure:** We'll work with you on coordinated disclosure
 
-## âœ… Supported Versions
+## ✅ Supported Versions
 
 We provide security updates for the following versions:
 
@@ -33,7 +33,7 @@ We provide security updates for the following versions:
 
 We recommend always using the latest version of our projects.
 
-## ðŸ›¡ï¸ Security Best Practices
+## 🛡️ Security Best Practices
 
 When using our tools and templates:
 
@@ -44,7 +44,7 @@ When using our tools and templates:
 5. **Enable MFA:** Multi-factor authentication for all accounts
 6. **Monitor Activity:** Regular audits of access logs
 
-## ðŸ” Our Security Measures
+## 🔐 Our Security Measures
 
 - Regular security audits of our codebase
 - Dependency scanning and automated updates
@@ -52,10 +52,10 @@ When using our tools and templates:
 - Secure development lifecycle practices
 - Compliance with industry standards
 
-## ðŸ“ž Contact
+## 📞 Contact
 
 For security-related inquiries:
 - **Email:** security@cloudboostup.com
-- **Website:** https://cloudboostup.com/security
+- **Website:** https://cloudboostup.com
 
 Thank you for helping keep CloudBoostUP and our community safe!

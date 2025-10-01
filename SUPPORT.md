@@ -2,7 +2,7 @@
 
 Looking for help with CloudBoostUP projects? You're in the right place!
 
-## ðŸ“š Documentation
+## 📚 Documentation
 
 Before reaching out, please check our documentation:
 
@@ -11,23 +11,22 @@ Before reaching out, please check our documentation:
 - **Blog:** Technical guides and best practices
 - **Wiki:** Detailed technical documentation in each repository
 
-## ðŸ’¬ Getting Help
+## 💬 Getting Help
 
 ### Community Support
 
 - **GitHub Discussions:** Ask questions and share ideas in repository discussions
 - **Issues:** Search existing issues before creating a new one
-- **Stack Overflow:** Tag your questions with cloudboostup and relevant technologies
+- **Stack Overflow:** Tag your questions with `cloudboostup` and relevant technologies
 
 ### Professional Support
 
 For business inquiries, consulting, or professional support:
 
-- ðŸŒ **Website:** [cloudboostup.com/contact](https://cloudboostup.com)
-- ðŸ“§ **Email:** info@cloudboostup.com
-- ðŸ’¼ **LinkedIn:** [CloudBoostUP Company Page](https://linkedin.com/company/cloudboostup)
+- 🌐 **Website:** [cloudboostup.com](https://cloudboostup.com)
+- 💼 **LinkedIn:** [CloudBoostUP Company Page](https://www.linkedin.com/company/cloudboostup)
 
-## ðŸ› Reporting Issues
+## 🐛 Reporting Issues
 
 Found a bug? Please:
 
@@ -40,7 +39,7 @@ Found a bug? Please:
    - Environment details (OS, versions, etc.)
    - Screenshots or logs if helpful
 
-## ðŸ’¡ Feature Requests
+## 💡 Feature Requests
 
 Have an idea for improvement?
 
@@ -49,7 +48,7 @@ Have an idea for improvement?
 3. Describe your use case and expected benefits
 4. Be open to discussion and alternative solutions
 
-## ðŸ¤ Contributing
+## 🤝 Contributing
 
 Want to contribute? See our [Contributing Guidelines](CONTRIBUTING.md)
 
@@ -60,37 +59,37 @@ We welcome:
 - Code reviews
 - Testing
 
-## ðŸ“ž Contact Information
+## 📞 Contact Information
 
 ### General Inquiries
-- **Email:** info@cloudboostup.com
 - **Website:** https://cloudboostup.com
+- **LinkedIn:** [CloudBoostUP](https://www.linkedin.com/company/cloudboostup)
 
 ### Security Issues
 - **Email:** security@cloudboostup.com
 - See our [Security Policy](SECURITY.md)
 
 ### Business & Consulting
-- **Website:** [cloudboostup.com/services](https://cloudboostup.com)
-- **LinkedIn:** [CloudBoostUP](https://linkedin.com/company/cloudboostup)
+- **Website:** [cloudboostup.com](https://cloudboostup.com)
+- **LinkedIn:** [CloudBoostUP](https://www.linkedin.com/company/cloudboostup)
 
-## â° Response Times
+## ⏰ Response Times
 
 - **Community Issues:** Best effort, typically 2-5 business days
 - **Professional Support:** Based on your support agreement
 - **Security Issues:** Within 48 hours (see Security Policy)
 
-## ðŸŒ Community Guidelines
+## 🌍 Community Guidelines
 
 When seeking support:
 
-- âœ… Be respectful and patient
-- âœ… Provide sufficient context
-- âœ… Search before asking
-- âœ… Share solutions that worked for you
-- âŒ Don't share sensitive information publicly
-- âŒ Don't spam or cross-post excessively
+- ✅ Be respectful and patient
+- ✅ Provide sufficient context
+- ✅ Search before asking
+- ✅ Share solutions that worked for you
+- ❌ Don't share sensitive information publicly
+- ❌ Don't spam or cross-post excessively
 
 ---
 
-**Thank you for being part of the CloudBoostUP community!** ðŸš€
+**Thank you for being part of the CloudBoostUP community!** 🚀
